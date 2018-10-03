@@ -15,5 +15,5 @@ exports.greetingEnglish = function(){
 exports.greetingJapanese = function(){
     console.log("Konichiwa");
 }
-
+ 
 exports = "Hola";
